@@ -1,4 +1,4 @@
-# MiniProjects-with-JavaScript
+# Projects-MadeBy-JavaScript
 ### JavaScript Projects for Practice – Easy Ideas to Coding JS.
 [Refrence](https://www.freecodecamp.org/news/javascript-projects-for-beginners)
 
