@@ -5,7 +5,7 @@
 ## List of Projects
 
 ### Beginner
-- Color Flipper
+- Color Flipper :white_check_mark:
 - counter
 - review carousel
 - responsive navbar
