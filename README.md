@@ -6,8 +6,7 @@
 
 ### Beginner
 - Color Flipper [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjmLoy) :white_check_mark:
-  - ![color flipper](preview1.gif)
-- counter
+- counter [See in Codepen](https://codepen.io/ehsanshahbazii/pen/MWGGogq) :white_check_mark:
 - review carousel
 - responsive navbar
 - sidebar
