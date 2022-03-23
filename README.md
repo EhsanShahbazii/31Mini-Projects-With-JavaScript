@@ -5,15 +5,29 @@
 ## List of Projects
 
 ### Beginner
-- Color Flipper [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjmLoy) :white_check_mark:
-- counter [See in Codepen](https://codepen.io/ehsanshahbazii/pen/MWGGogq) :white_check_mark:
-- review carousel
-- responsive navbar
-- sidebar
-- modal
-- FAQ page
-- restaurant menu page
-- video background
+- #### Color Flipper [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjmLoy) :white_check_mark:
+  - arrays
+  - document.getElementById()
+  - document.querySelector()
+  - addEventListener()
+  - document.body.style.backgroundColor
+  - Math.floor()
+  - Math.random()
+  - array.length
+- #### counter [See in Codepen](https://codepen.io/ehsanshahbazii/pen/MWGGogq) :white_check_mark:
+  - document.querySelectorAll()
+  - forEach()
+  - addEventListener()
+  - currentTarget property
+  - classList
+  - textContent
+- #### review carousel
+- #### responsive navbar
+- #### sidebar
+- #### modal
+- #### FAQ page
+- #### restaurant menu page
+- #### video background
 ### Medium
 - navigation bar on scroll
 - tabs that display different content
