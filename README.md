@@ -21,13 +21,13 @@
   - currentTarget property
   - classList
   - textContent
-- #### Review Carousel [See in Codepen](https://codepen.io/ehsanshahbazii/pen/) :white_check_mark:
+- #### Review Carousel [See in Codepen](https://codepen.io/ehsanshahbazii/pen/bGMKEGx) :white_check_mark:
   - objects
   - DOMContentLoaded
   - addEventListener()
   - array.length
   - textContent
-- #### Responsive Navbar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/) :white_check_mark:
+- #### Responsive Navbar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/dyeKYBN) :white_check_mark:
   - document.querySelector()
   - addEventListener()
   - classList.toggle()
