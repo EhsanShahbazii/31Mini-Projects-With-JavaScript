@@ -47,7 +47,14 @@
   - forEach()
   - classList.remove()
   - classList.toggle()
-- #### Restaurant Menu Page
+- #### Restaurant Menu Page [See in Codepen](https://codepen.io/ehsanshahbazii/pen/JjvBGKX) :white_check_mark:
+  - arrays
+  - objects
+  - forEach()
+  - DOMContentLoaded
+  - map, reduce, and filter
+  - innerHTML
+  - includes method
 - #### Video Background [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
   - document.querySelector()
   - addEventListener()
