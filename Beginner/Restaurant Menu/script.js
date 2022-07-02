@@ -2,6 +2,7 @@ const $ = document;
 let container = $.querySelector("#con");
 let buttons = $.querySelectorAll("button");
 
+// this is data like database
 const data = [
   {
     id: 1,
@@ -86,12 +87,14 @@ const data = [
   },
 ];
 
+// add all items in container
 window.onload = () => {
   data.forEach((newItem) => {
     createItem(newItem);
   });
 };
 
+// filter items in container
 buttons.forEach((btn) => {
   btn.addEventListener("click", (e) => {
     buttons.forEach((btn) => {
@@ -111,6 +114,7 @@ buttons.forEach((btn) => {
   });
 });
 
+// this function create new item
 const createItem = ({ image, title, price, text }) => {
   let temp = `<div class="item">
   <div>
