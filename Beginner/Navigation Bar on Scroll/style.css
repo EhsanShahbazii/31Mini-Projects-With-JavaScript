@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: rgb(6, 1, 41);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-image: url("https://wallpapercave.com/wp/wp8834188.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+header {
+  padding: 20px 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 50px;
+  /* background-color: #ddd;
+  border-bottom: 1px solid #bbb; */
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  z-index: 1000;
+}
+
+.logo {
+  color: rgb(161, 60, 255);
+  font-size: 18px;
+}
+
+.tab {
+  display: flex;
+  flex-direction: row;
+  font-size: 16px;
+}
+
+.myName {
+  cursor: pointer;
+  margin-right: 16px;
+  transition: all 0.3s;
+  border-bottom: 1px solid transparent;
+}
+
+.myName:hover {
+  border-bottom: 1px solid #333;
+}
+
+.scroll {
+  background-color: #ddd;
+  border-bottom: 1px solid #bbb;
+  position: fixed;
+  color: #000;
+}
+
+img {
+  width: 400px;
+}
+
+.container {
+  padding: 32px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10rem;
+  margin-bottom: 2rem;
+}
+
+.right {
+  max-width: 600px;
+  margin: 0 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+h2 {
+  text-transform: uppercase;
+  text-align: justify;
+  font-size: 29px;
+}
+
+span {
+  opacity: 0.7;
+  font-size: 15px;
+}
+
+.topsi {
+  padding-bottom: 6px;
+  border-bottom: 1px solid rgba(51, 51, 51, 0.267);
+}
+
+p {
+  margin-top: 12px;
+}
+
+.c2 {
+  flex-direction: row-reverse;
+}
+
+@media screen and (max-width: 1150px) {
+  .container,
+  .c2 {
+    flex-direction: column;
+    align-items: center;
+    padding: 32px 12px;
+    text-align: center;
+  }
+
+  h2 {
+    margin-top: 32px;
+    text-align: center;
+  }
+}
