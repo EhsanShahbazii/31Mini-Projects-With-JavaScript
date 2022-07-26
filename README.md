@@ -64,13 +64,17 @@
   - play()
   - pause()
 ### Medium
-- #### Navigation Bar on Scroll  [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEojrpp) :white_check_mark:
+- #### Navigation Bar on Scroll [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEojrpp) :white_check_mark:
   - document.getElementById()
   - getFullYear()
   - getBoundingClientRect()
   - slice method
   - window.scrollTo()
-- #### Tabs that display different content
+- #### Tabs that display different content [See in Codepen](https://codepen.io/ehsanshahbazii/pen/JjvBmBv) :white_check_mark:
+  - classList.add()
+  - classList.remove()
+  - forEach()
+  - addEventListener()
 - #### Countdown Clock
 - #### Your Own Lorem ipsum
 - #### Grocery List
