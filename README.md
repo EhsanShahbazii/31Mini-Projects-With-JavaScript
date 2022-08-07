@@ -82,7 +82,13 @@
   - Math.floor()
   - setInterval()
   - clearInterval()
-- #### Your Own Lorem ipsum
+- #### Your Own Lorem ipsum [See in Codepen](https://codepen.io/ehsanshahbazii/pen/jOxvMmv) :white_check_mark:
+  - parseInt()
+  - Math.floor()
+  - Math.random()
+  - isNaN()
+  - slice method
+  - event.preventDefault()
 - #### Grocery List
 - #### Image Slider
 ### Advance
