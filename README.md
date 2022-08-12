@@ -89,7 +89,14 @@
   - isNaN()
   - slice method
   - event.preventDefault()
-- #### Grocery List
+- #### Grocery List [See in Codepen](https://codepen.io/ehsanshahbazii/pen/poVOpKG) :white_check_mark:
+  - DOMContentLoaded
+  - new Date()
+  - createAttribute()
+  - setAttributeNode()
+  - appendChild()
+  - filter()
+  - map()
 - #### Image Slider
 ### Advance
 - #### Rock Paper Scissors game
