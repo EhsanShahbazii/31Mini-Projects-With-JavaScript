@@ -63,8 +63,11 @@
   - classList.remove()
   - play()
   - pause()
-### Medium
-- #### Navigation Bar on Scroll [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEojrpp) :white_check_mark:
+- #### Form Validation [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
+  - document.querySelector()
+  - conditions
+### Medium 
+- #### Navigation Bar on Scroll [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjYaqN) :white_check_mark:
   - document.getElementById()
   - getFullYear()
   - getBoundingClientRect()
