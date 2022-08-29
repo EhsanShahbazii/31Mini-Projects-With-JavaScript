@@ -70,7 +70,9 @@
   - Math.floor()
   - Math.random()
   - colors
-
+- #### Book A Ticket [See in Codepen](https://codepen.io/ehsanshahbazii/pen/GRdYJXw) :white_check_mark:
+  - Array
+  - Options
 
 
 
