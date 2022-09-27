@@ -1,6 +1,5 @@
 # Projects-MadeBy-JavaScript
 ### JavaScript Projects for Practice – Easy Ideas to Coding JS.
-[Refrence](https://www.freecodecamp.org/news/javascript-projects-for-beginners)
 
 ## List of Projects
 
@@ -63,28 +62,77 @@
   - classList.remove()
   - play()
   - pause()
-### Medium
-- #### Navigation Bar on Scroll  [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEojrpp) :white_check_mark:
+- #### Form Validation [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
+  - document.querySelector()
+  - conditions
+- #### Color Change [See in Codepen](https://codepen.io/ehsanshahbazii/pen/VwxELxX) :white_check_mark:
+  - document.querySelector()
+  - Math.floor()
+  - Math.random()
+  - colors
+- #### Book A Ticket [See in Codepen](https://codepen.io/ehsanshahbazii/pen/GRdYJXw) :white_check_mark:
+  - document.querySelectorAll()
+  - array
+  - options
+- #### Convert Temp [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLJXgO) :white_check_mark:
+  - document.querySelectorAll()
+  - Math
+  - actions
+- #### Key Code [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEoqGNB) :white_check_mark:
+  - document.querySelector()
+  - document.getElementById()
+  - keyboard event
+
+
+
+
+
+
+### Medium 
+- #### Navigation Bar on Scroll [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjYaqN) :white_check_mark:
   - document.getElementById()
   - getFullYear()
   - getBoundingClientRect()
   - slice method
   - window.scrollTo()
-- #### Tabs that display different content
-- #### Countdown Clock
-- #### Your Own Lorem ipsum
-- #### Grocery List
+- #### Tabs that display different content [See in Codepen](https://codepen.io/ehsanshahbazii/pen/JjvBmBv) :white_check_mark:
+  - classList.add()
+  - classList.remove()
+  - forEach()
+  - addEventListener()
+- #### Countdown Clock [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvZLxp) :white_check_mark:
+  - getFullYear()
+  - getMonth()
+  - getDate()
+  - Math.floor()
+  - setInterval()
+  - clearInterval()
+- #### Your Own Lorem ipsum [See in Codepen](https://codepen.io/ehsanshahbazii/pen/jOxvMmv) :white_check_mark:
+  - parseInt()
+  - Math.floor()
+  - Math.random()
+  - isNaN()
+  - slice method
+  - event.preventDefault()
+- #### Grocery List [See in Codepen](https://codepen.io/ehsanshahbazii/pen/poVOpKG) :white_check_mark:
+  - DOMContentLoaded
+  - new Date()
+  - createAttribute()
+  - setAttributeNode()
+  - appendChild()
+  - filter()
+  - map()
 - #### Image Slider
 ### Advance
-- #### Rock Paper Scissors game
+- #### Rock Paper Scissors Game
 - #### Simon Game
 - #### Platformer Game
-- #### Doodle Jump
-- #### Flappy Bird
-- #### Memory game
-- #### Whack-a-mole game
-- #### Connect Four game
-- #### Snake game
-- #### Space Invaders game
-- #### Frogger game
-- #### Tetris game
+- #### Doodle Jump Game
+- #### Flappy Bird Game
+- #### Memory Game
+- #### Whack-a-mole Game
+- #### Connect Four Game
+- #### Snake Game
+- #### Space Invaders Game
+- #### Frogger Game
+- #### Tetris Game
