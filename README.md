@@ -82,7 +82,10 @@
   - document.querySelector()
   - document.getElementById()
   - keyboard event
-
+- #### Show Password [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLRLEP) :white_check_mark:
+  - document.getElementByClassName()
+  - document.getElementById()
+  - class list
 
 
 
