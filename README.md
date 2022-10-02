@@ -21,7 +21,12 @@
   - currentTarget property
   - classList
   - textContent
-- #### review carousel
+- #### review carousel [See in Codepen](https://codepen.io/ehsanshahbazii/pen/) :white_check_mark:
+  - objects
+  - DOMContentLoaded
+  - addEventListener()
+  - array.length
+  - textContent
 - #### responsive navbar
 - #### sidebar
 - #### modal
