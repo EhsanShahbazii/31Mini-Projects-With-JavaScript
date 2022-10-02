@@ -125,6 +125,15 @@
   - appendChild()
   - filter()
   - map()
+- #### Custom Context Menu [See in Codepen](https://codepen.io/ehsanshahbazii/pen/PoexeQb) :white_check_mark:
+  - context menu
+  - pageX, pageY
+  - events
+
+
+
+
+
 - #### Image Slider
 ### Advance
 - #### Rock Paper Scissors Game
