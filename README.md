@@ -31,7 +31,11 @@
   - document.querySelector()
   - addEventListener()
   - classList.toggle()
-- #### Sidebar
+- #### Sidebar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjXoaw) :white_check_mark:
+  - document.querySelector()
+  - addEventListener()
+  - classList.toggle()
+  - classList.remove()
 - #### Modal
 - #### FAQ Page
 - #### Restaurant Menu Page
