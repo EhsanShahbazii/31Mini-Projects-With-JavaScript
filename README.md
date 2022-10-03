@@ -36,7 +36,11 @@
   - addEventListener()
   - classList.toggle()
   - classList.remove()
-- #### Modal
+- #### Modal [See in Codepen](https://codepen.io/ehsanshahbazii/pen/WNJyomj) :white_check_mark:
+  - document.querySelector()
+  - addEventListener()
+  - classList.add()
+  - classList.remove()
 - #### FAQ Page
 - #### Restaurant Menu Page
 - #### Video Background
