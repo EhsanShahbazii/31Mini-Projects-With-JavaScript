@@ -14,32 +14,32 @@
   - Math.floor()
   - Math.random()
   - array.length
-- #### counter [See in Codepen](https://codepen.io/ehsanshahbazii/pen/MWGGogq) :white_check_mark:
+- #### Counter [See in Codepen](https://codepen.io/ehsanshahbazii/pen/MWGGogq) :white_check_mark:
   - document.querySelectorAll()
   - forEach()
   - addEventListener()
   - currentTarget property
   - classList
   - textContent
-- #### review carousel [See in Codepen](https://codepen.io/ehsanshahbazii/pen/) :white_check_mark:
+- #### Review Carousel [See in Codepen](https://codepen.io/ehsanshahbazii/pen/) :white_check_mark:
   - objects
   - DOMContentLoaded
   - addEventListener()
   - array.length
   - textContent
-- #### responsive navbar
-- #### sidebar
-- #### modal
-- #### FAQ page
-- #### restaurant menu page
-- #### video background
+- #### Responsive Navbar
+- #### Sidebar
+- #### Modal
+- #### FAQ Page
+- #### Restaurant Menu Page
+- #### Video Background
 ### Medium
-- navigation bar on scroll
-- tabs that display different content
-- countdown clock
-- your own Lorem ipsum
-- grocery list
-- image slider
+- Navigation Bar on Scroll
+- Tabs that display different content
+- Countdown Clock
+- Your Own Lorem ipsum
+- Grocery List
+- Image Slider
 ### Advance
 - Rock Paper Scissors game
 - Simon Game
