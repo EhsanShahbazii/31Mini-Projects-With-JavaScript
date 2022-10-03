@@ -27,7 +27,10 @@
   - addEventListener()
   - array.length
   - textContent
-- #### Responsive Navbar
+- #### Responsive Navbar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/) :white_check_mark:
+  - document.querySelector()
+  - addEventListener()
+  - classList.toggle()
 - #### Sidebar
 - #### Modal
 - #### FAQ Page
