@@ -48,7 +48,14 @@
   - classList.remove()
   - classList.toggle()
 - #### Restaurant Menu Page
-- #### Video Background
+- #### Video Background [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
+  - document.querySelector()
+  - addEventListener()
+  - classList.contains()
+  - classList.add()
+  - classList.remove()
+  - play()
+  - pause()
 ### Medium
 - Navigation Bar on Scroll
 - Tabs that display different content
