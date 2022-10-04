@@ -41,7 +41,12 @@
   - addEventListener()
   - classList.add()
   - classList.remove()
-- #### FAQ Page
+- #### FAQ Page [See in Codepen](https://codepen.io/ehsanshahbazii/pen/Poeaeey) :white_check_mark:
+  - document.querySelectorAll()
+  - addEventListener()
+  - forEach()
+  - classList.remove()
+  - classList.toggle()
 - #### Restaurant Menu Page
 - #### Video Background
 ### Medium
