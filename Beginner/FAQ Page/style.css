@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-image: linear-gradient(
+    to right bottom,
+    #051937,
+    #181f36,
+    #242636,
+    #2e2d35,
+    #353535
+  );
+  transition: background-color 0.3s;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 50px;
+  background-color: #ddd;
+  border-bottom: 1px solid #bbb;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.logo {
+  color: rgb(161, 60, 255);
+}
+
+.myName {
+  color: #333;
+  font-size: 22px;
+  font-family: cursive;
+}
+
+h2 {
+  position: absolute;
+  top: 128px;
+  color: rgb(255, 187, 0);
+  font-size: 46px;
+  font-family: "Passions Conflict", cursive;
+}
+
+.container {
+  width: 550px;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.item {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 12px 18px;
+  font-size: 20px;
+  opacity: 0.8;
+  box-shadow: 4px 8px 20px rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  overflow: hidden;
+  height: 50px;
+  transition: all 0.4s;
+  margin: 16px 0;
+}
+
+.ye {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+img {
+  width: 30px;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+p {
+  font-size: 14px;
+  text-align: justify;
+}
+
+.active {
+  height: 130px;
+}
+
+.act_img {
+  transform: rotate(45deg);
+}
+
+@media screen and (max-width: 668px) {
+  .container {
+    width: 450px;
+  }
+  .item {
+    font-size: 17px;
+  }
+}
+
+@media screen and (max-width: 608px) {
+  .container {
+    width: 400px;
+  }
+  .item {
+    font-size: 15px;
+  }
+  p {
+    font-size: 11px;
+  }
+}
