@@ -64,27 +64,27 @@
   - play()
   - pause()
 ### Medium
-- Navigation Bar on Scroll  [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEojrpp) :white_check_mark:
+- #### Navigation Bar on Scroll  [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEojrpp) :white_check_mark:
   - document.getElementById()
   - getFullYear()
   - getBoundingClientRect()
   - slice method
   - window.scrollTo()
-- Tabs that display different content
-- Countdown Clock
-- Your Own Lorem ipsum
-- Grocery List
-- Image Slider
+- #### Tabs that display different content
+- #### Countdown Clock
+- #### Your Own Lorem ipsum
+- #### Grocery List
+- #### Image Slider
 ### Advance
-- Rock Paper Scissors game
-- Simon Game
-- Platformer Game
-- Doodle Jump
-- Flappy Bird
-- Memory game
-- Whack-a-mole game
-- Connect Four game
-- Snake game
-- Space Invaders game
-- Frogger game
-- Tetris game
+- #### Rock Paper Scissors game
+- #### Simon Game
+- #### Platformer Game
+- #### Doodle Jump
+- #### Flappy Bird
+- #### Memory game
+- #### Whack-a-mole game
+- #### Connect Four game
+- #### Snake game
+- #### Space Invaders game
+- #### Frogger game
+- #### Tetris game
