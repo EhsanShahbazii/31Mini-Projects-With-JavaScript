@@ -6,6 +6,7 @@ let text = $.querySelector("p");
 let pre = $.getElementsByClassName("pre")[0];
 let next = $.getElementsByClassName("next")[0];
 
+// this is data like database
 const data = [
   {
     id: 1,
