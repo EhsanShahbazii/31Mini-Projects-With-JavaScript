@@ -2,9 +2,11 @@ const $ = document;
 let video = $.querySelector("video");
 let btn = $.getElementsByClassName("up")[0];
 
+// play or pause video
 let flag = false;
-btn.addEventListener("click", (event) => {
+btn.addEventListener("click", () => {
   btn.classList.toggle("click");
+  
   if (flag) {
     flag = false;
     video.play();
