@@ -99,15 +99,15 @@
   - map()
 - #### Image Slider
 ### Advance
-- #### Rock Paper Scissors game
+- #### Rock Paper Scissors Game
 - #### Simon Game
 - #### Platformer Game
-- #### Doodle Jump
-- #### Flappy Bird
-- #### Memory game
-- #### Whack-a-mole game
-- #### Connect Four game
-- #### Snake game
-- #### Space Invaders game
-- #### Frogger game
-- #### Tetris game
+- #### Doodle Jump Game
+- #### Flappy Bird Game
+- #### Memory Game
+- #### Whack-a-mole Game
+- #### Connect Four Game
+- #### Snake Game
+- #### Space Invaders Game
+- #### Frogger Game
+- #### Tetris Game
