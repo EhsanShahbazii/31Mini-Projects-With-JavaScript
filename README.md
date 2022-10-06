@@ -75,7 +75,13 @@
   - classList.remove()
   - forEach()
   - addEventListener()
-- #### Countdown Clock
+- #### Countdown Clock [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvZLxp) :white_check_mark:
+  - getFullYear()
+  - getMonth()
+  - getDate()
+  - Math.floor()
+  - setInterval()
+  - clearInterval()
 - #### Your Own Lorem ipsum
 - #### Grocery List
 - #### Image Slider
