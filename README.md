@@ -76,6 +76,7 @@
   - array
   - options
 - #### Convert Temp [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLJXgO) :white_check_mark:
+  - document.querySelectorAll()
   - Math
   - actions
 - #### Key Code [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEoqGNB) :white_check_mark:
