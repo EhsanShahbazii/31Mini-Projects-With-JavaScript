@@ -67,16 +67,20 @@
   - document.querySelector()
   - conditions
 - #### Color Change [See in Codepen](https://codepen.io/ehsanshahbazii/pen/VwxELxX) :white_check_mark:
+  - document.querySelector()
   - Math.floor()
   - Math.random()
   - colors
 - #### Book A Ticket [See in Codepen](https://codepen.io/ehsanshahbazii/pen/GRdYJXw) :white_check_mark:
+  - document.querySelectorAll()
   - array
   - options
 - #### Convert Temp [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLJXgO) :white_check_mark:
   - Math
   - actions
 - #### Key Code [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEoqGNB) :white_check_mark:
+  - document.querySelector()
+  - document.getElementById()
   - keyboard event
 
 
