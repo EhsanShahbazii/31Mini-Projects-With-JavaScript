@@ -1,0 +1,37 @@
+body {
+  background-image: url("https://img.freepik.com/free-photo/beautiful-aerial-shot-fronalpstock-mountains-switzerland-beautiful-pink-blue-sky_181624-9315.jpg?w=1060&t=st=1665164272~exp=1665164872~hmac=0ce7913fde5fe6097cb6c7d3b2bef1b5c6cd25f55c9d891f50232f265fd40f26");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fnameInput,
+.lnameInput,
+.phoneInput,
+.emailInput,
+.countrySelect,
+.citySelect {
+  width: 80%;
+  height: 40px;
+  border-radius: 5px;
+  border: 0px;
+  padding: 0px 10px;
+}
+.btn {
+  height: 30px;
+  border-radius: 5px;
+  border: 0px;
+  padding: 0px 20px;
+  background-color: rgb(255, 217, 0);
+  margin-top: 40px;
+}
+.box {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.container {
+  margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
