@@ -66,6 +66,15 @@
 - #### Form Validation [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
   - document.querySelector()
   - conditions
+- #### Color Change [See in Codepen](https://codepen.io/ehsanshahbazii/pen/VwxELxX) :white_check_mark:
+  - Math.floor()
+  - Math.random()
+  - colors
+
+
+
+
+
 ### Medium 
 - #### Navigation Bar on Scroll [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjYaqN) :white_check_mark:
   - document.getElementById()
