@@ -35,8 +35,12 @@
   - addEventListener()
   - classList.toggle()
   - classList.remove()
-- #### Modal [See in Codepen](https://codepen.io/ehsanshahbazii/pen/WNJyomj) :white_check_mark:
+- #### Modal High [See in Codepen](https://codepen.io/ehsanshahbazii/pen/WNJyomj) :white_check_mark:
   - document.querySelector()
+  - addEventListener()
+  - classList.add()
+  - classList.remove()
+- #### Modal [See in Codepen](https://codepen.io/ehsanshahbazii/pen/QWrJrJQ) :white_check_mark:
   - addEventListener()
   - classList.add()
   - classList.remove()
