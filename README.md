@@ -149,7 +149,9 @@
 - class list
 - events
 - addEventListener()
-
+- #### BMI Calculator [See in Codepen](https://codepen.io/ehsanshahbazii/pen/xxjQzRw) :white_check_mark:
+- events
+- addEventListener()
 
 
 ### Advance
