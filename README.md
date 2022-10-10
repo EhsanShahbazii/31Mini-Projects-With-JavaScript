@@ -129,7 +129,9 @@
   - context menu
   - pageX, pageY
   - events
-
+- #### Max Length  input [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ExLOLRM) :white_check_mark:
+  - input
+  - key events
 
 
 
