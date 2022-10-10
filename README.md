@@ -90,7 +90,9 @@
   - document.getElementByClassName()
   - document.getElementById()
   - class list
-
+- #### Range Slider [See in Codepen](https://codepen.io/ehsanshahbazii/pen/qBYQKdO) :white_check_mark:
+  - range slider
+  - input
 
 
 
