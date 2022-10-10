@@ -144,11 +144,14 @@
   - arrays
   - jsons
   - splice
+- #### Image Slider [See in Codepen](https://codepen.io/ehsanshahbazii/pen/XWqyYdv) :white_check_mark:
+- setInterval
+- class list
+- events
+- addEventListener()
 
 
 
-
-- #### Image Slider
 ### Advance
 - #### Rock Paper Scissors Game
 - #### Simon Game
