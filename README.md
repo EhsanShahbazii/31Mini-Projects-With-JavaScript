@@ -133,9 +133,15 @@
   - context menu
   - pageX, pageY
   - events
-- #### Max Length  input [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ExLOLRM) :white_check_mark:
+- #### Max Length input [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ExLOLRM) :white_check_mark:
   - input
   - key events
+- #### Todo List Local Storage [See in Codepen](https://codepen.io/ehsanshahbazii/pen/oNdQdVX) :white_check_mark:
+  - local storage
+  - key events
+  - arrays
+  - jsons
+  - splice
 
 
 
