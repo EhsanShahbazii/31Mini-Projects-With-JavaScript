@@ -68,6 +68,7 @@
 - #### :fire:Form Validation [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
   - querySelector()
   - conditions
+  - querySelectorAll()
 - #### Color Change [See in Codepen](https://codepen.io/ehsanshahbazii/pen/VwxELxX) :white_check_mark:
   - querySelector()
   - Math.floor()
@@ -75,10 +76,12 @@
   - colors
 - #### :fire:Book A Ticket [See in Codepen](https://codepen.io/ehsanshahbazii/pen/GRdYJXw) :white_check_mark:
   - querySelectorAll()
+  - querySelector()
   - array
   - options
 - #### Convert Temp [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLJXgO) :white_check_mark:
   - querySelectorAll()
+  - querySelector()
   - Math
   - actions
 - #### :fire:Key Code [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEoqGNB) :white_check_mark:
@@ -89,15 +92,19 @@
   - getElementByClassName()
   - getElementById()
   - class list
+  - querySelector()
 - #### Range Slider [See in Codepen](https://codepen.io/ehsanshahbazii/pen/qBYQKdO) :white_check_mark:
   - range slider
   - input
+  - querySelector()
 - #### Dynamic Theme [See in Codepen](https://codepen.io/ehsanshahbazii/pen/BaxGVRx) :white_check_mark:
   - class list
+  - querySelector()
 - #### Custom Scroll Bar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/jOxQKad) :white_check_mark:
   - scroll
   - events
   - DOM
+  - querySelector()
 
 
 - #### Navigation Bar on Scroll [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjYaqN) :white_check_mark:
@@ -137,9 +144,11 @@
   - context menu
   - pageX, pageY
   - events
+  - querySelector()
 - #### Max Length input [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ExLOLRM) :white_check_mark:
   - input
   - key events
+  - querySelector()
 - #### :fire:Todo List Local Storage [See in Codepen](https://codepen.io/ehsanshahbazii/pen/oNdQdVX) :white_check_mark:
   - local storage
   - key events
@@ -151,12 +160,15 @@
   - class list
   - events
   - addEventListener()
+  - querySelector()
 - #### :fire:BMI Calculator [See in Codepen](https://codepen.io/ehsanshahbazii/pen/xxjQzRw) :white_check_mark:
   - events
   - addEventListener()
+  - querySelector()
 - #### Animated Keyboard [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvQKzB) :white_check_mark:
   - events
   - addEventListener()
+  - querySelector()
 - #### :fire:Pagination [See in Codepen](https://codepen.io/ehsanshahbazii/pen/PoexaJR) :white_check_mark:
   - Math.ceil
   - class list
