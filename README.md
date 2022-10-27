@@ -153,6 +153,9 @@
 - #### BMI Calculator [See in Codepen](https://codepen.io/ehsanshahbazii/pen/xxjQzRw) :white_check_mark:
 - events
 - addEventListener()
+- #### Animated Keyboard [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvQKzB) :white_check_mark:
+- events
+- addEventListener()
 
 
 ### Advance
