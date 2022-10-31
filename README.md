@@ -156,6 +156,12 @@
 - #### Animated Keyboard [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvQKzB) :white_check_mark:
 - events
 - addEventListener()
+- #### Pagination [See in Codepen](https://codepen.io/ehsanshahbazii/pen/PoexaJR) :white_check_mark:
+- Math.ceil
+- class list
+- array
+- appendChild()
+- events
 
 
 ### Advance
