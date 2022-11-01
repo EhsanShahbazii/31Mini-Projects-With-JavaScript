@@ -95,7 +95,10 @@
   - input
 - #### Dynamic Theme [See in Codepen](https://codepen.io/ehsanshahbazii/pen/BaxGVRx) :white_check_mark:
   - class list
-
+- #### Custom Scroll Bar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/jOxQKad) :white_check_mark:
+  - scroll
+  - events
+  - DOM
 
 
 ### Medium 
