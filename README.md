@@ -3,7 +3,6 @@
 
 ## List of Projects
 
-### Beginner
 - #### Color Flipper [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjmLoy) :white_check_mark:
   - arrays
   - document.getElementById()
@@ -101,7 +100,6 @@
   - DOM
 
 
-### Medium 
 - #### Navigation Bar on Scroll [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjYaqN) :white_check_mark:
   - document.getElementById()
   - getFullYear()
@@ -166,17 +164,3 @@
 - appendChild()
 - events
 
-
-### Advance
-- #### Rock Paper Scissors Game
-- #### Simon Game
-- #### Platformer Game
-- #### Doodle Jump Game
-- #### Flappy Bird Game
-- #### Memory Game
-- #### Whack-a-mole Game
-- #### Connect Four Game
-- #### Snake Game
-- #### Space Invaders Game
-- #### Frogger Game
-- #### Tetris Game
