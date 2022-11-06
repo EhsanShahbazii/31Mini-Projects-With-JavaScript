@@ -147,20 +147,20 @@
   - jsons
   - splice
 - #### Image Slider [See in Codepen](https://codepen.io/ehsanshahbazii/pen/XWqyYdv) :white_check_mark:
-- setInterval
-- class list
-- events
-- addEventListener()
+  - setInterval
+  - class list
+  - events
+  - addEventListener()
 - #### BMI Calculator [See in Codepen](https://codepen.io/ehsanshahbazii/pen/xxjQzRw) :white_check_mark:
-- events
-- addEventListener()
+  - events
+  - addEventListener()
 - #### Animated Keyboard [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvQKzB) :white_check_mark:
-- events
-- addEventListener()
+  - events
+  - addEventListener()
 - #### Pagination [See in Codepen](https://codepen.io/ehsanshahbazii/pen/PoexaJR) :white_check_mark:
-- Math.ceil
-- class list
-- array
-- appendChild()
-- events
+  - Math.ceil
+  - class list
+  - array
+  - appendChild()
+  - events
 
