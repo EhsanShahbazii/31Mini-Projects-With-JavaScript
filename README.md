@@ -5,15 +5,15 @@
 
 - #### Color Flipper [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjmLoy) :white_check_mark:
   - arrays
-  - document.getElementById()
-  - document.querySelector()
+  - getElementById()
+  - querySelector()
   - addEventListener()
-  - document.body.style.backgroundColor
+  - body.style.backgroundColor
   - Math.floor()
   - Math.random()
   - array.length
 - #### Counter [See in Codepen](https://codepen.io/ehsanshahbazii/pen/MWGGogq) :white_check_mark:
-  - document.querySelectorAll()
+  - querySelectorAll()
   - forEach()
   - addEventListener()
   - currentTarget property
@@ -26,16 +26,16 @@
   - array.length
   - textContent
 - #### Responsive Navbar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/dyeKYBN) :white_check_mark:
-  - document.querySelector()
+  - querySelector()
   - addEventListener()
   - classList.toggle()
 - #### Sidebar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjXoaw) :white_check_mark:
-  - document.querySelector()
+  - querySelector()
   - addEventListener()
   - classList.toggle()
   - classList.remove()
 - #### Modal High [See in Codepen](https://codepen.io/ehsanshahbazii/pen/WNJyomj) :white_check_mark:
-  - document.querySelector()
+  - querySelector()
   - addEventListener()
   - classList.add()
   - classList.remove()
@@ -44,7 +44,7 @@
   - classList.add()
   - classList.remove()
 - #### FAQ Page [See in Codepen](https://codepen.io/ehsanshahbazii/pen/Poeaeey) :white_check_mark:
-  - document.querySelectorAll()
+  - querySelectorAll()
   - addEventListener()
   - forEach()
   - classList.remove()
@@ -66,28 +66,28 @@
   - play()
   - pause()
 - #### Form Validation [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
-  - document.querySelector()
+  - querySelector()
   - conditions
 - #### Color Change [See in Codepen](https://codepen.io/ehsanshahbazii/pen/VwxELxX) :white_check_mark:
-  - document.querySelector()
+  - querySelector()
   - Math.floor()
   - Math.random()
   - colors
 - #### Book A Ticket [See in Codepen](https://codepen.io/ehsanshahbazii/pen/GRdYJXw) :white_check_mark:
-  - document.querySelectorAll()
+  - querySelectorAll()
   - array
   - options
 - #### Convert Temp [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLJXgO) :white_check_mark:
-  - document.querySelectorAll()
+  - querySelectorAll()
   - Math
   - actions
 - #### Key Code [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEoqGNB) :white_check_mark:
-  - document.querySelector()
-  - document.getElementById()
+  - querySelector()
+  - getElementById()
   - keyboard event
 - #### Show Password [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLRLEP) :white_check_mark:
-  - document.getElementByClassName()
-  - document.getElementById()
+  - getElementByClassName()
+  - getElementById()
   - class list
 - #### Range Slider [See in Codepen](https://codepen.io/ehsanshahbazii/pen/qBYQKdO) :white_check_mark:
   - range slider
@@ -101,7 +101,7 @@
 
 
 - #### Navigation Bar on Scroll [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjYaqN) :white_check_mark:
-  - document.getElementById()
+  - getElementById()
   - getFullYear()
   - getBoundingClientRect()
   - slice method
