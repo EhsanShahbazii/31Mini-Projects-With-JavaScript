@@ -29,7 +29,7 @@
   - querySelector()
   - addEventListener()
   - classList.toggle()
-- #### Sidebar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjXoaw) :white_check_mark:
+- #### :fire:Sidebar [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjXoaw) :white_check_mark:
   - querySelector()
   - addEventListener()
   - classList.toggle()
@@ -39,7 +39,7 @@
   - addEventListener()
   - classList.add()
   - classList.remove()
-- #### Modal [See in Codepen](https://codepen.io/ehsanshahbazii/pen/QWrJrJQ) :white_check_mark:
+- #### :fire:Modal [See in Codepen](https://codepen.io/ehsanshahbazii/pen/QWrJrJQ) :white_check_mark:
   - addEventListener()
   - classList.add()
   - classList.remove()
@@ -49,7 +49,7 @@
   - forEach()
   - classList.remove()
   - classList.toggle()
-- #### Restaurant Menu Page [See in Codepen](https://codepen.io/ehsanshahbazii/pen/JjvBGKX) :white_check_mark:
+- #### :fire:Restaurant Menu Page [See in Codepen](https://codepen.io/ehsanshahbazii/pen/JjvBGKX) :white_check_mark:
   - arrays
   - objects
   - forEach()
@@ -65,7 +65,7 @@
   - classList.remove()
   - play()
   - pause()
-- #### Form Validation [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
+- #### :fire:Form Validation [See in Codepen](https://codepen.io/ehsanshahbazii/pen/YzLjXBb) :white_check_mark:
   - querySelector()
   - conditions
 - #### Color Change [See in Codepen](https://codepen.io/ehsanshahbazii/pen/VwxELxX) :white_check_mark:
@@ -73,7 +73,7 @@
   - Math.floor()
   - Math.random()
   - colors
-- #### Book A Ticket [See in Codepen](https://codepen.io/ehsanshahbazii/pen/GRdYJXw) :white_check_mark:
+- #### :fire:Book A Ticket [See in Codepen](https://codepen.io/ehsanshahbazii/pen/GRdYJXw) :white_check_mark:
   - querySelectorAll()
   - array
   - options
@@ -81,7 +81,7 @@
   - querySelectorAll()
   - Math
   - actions
-- #### Key Code [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEoqGNB) :white_check_mark:
+- #### :fire:Key Code [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ZEoqGNB) :white_check_mark:
   - querySelector()
   - getElementById()
   - keyboard event
@@ -106,12 +106,12 @@
   - getBoundingClientRect()
   - slice method
   - window.scrollTo()
-- #### Tabs that display different content [See in Codepen](https://codepen.io/ehsanshahbazii/pen/JjvBmBv) :white_check_mark:
+- #### :fire:Tabs that display different content [See in Codepen](https://codepen.io/ehsanshahbazii/pen/JjvBmBv) :white_check_mark:
   - classList.add()
   - classList.remove()
   - forEach()
   - addEventListener()
-- #### Countdown Clock [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvZLxp) :white_check_mark:
+- #### :fire:Countdown Clock [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvZLxp) :white_check_mark:
   - getFullYear()
   - getMonth()
   - getDate()
@@ -133,14 +133,14 @@
   - appendChild()
   - filter()
   - map()
-- #### Custom Context Menu [See in Codepen](https://codepen.io/ehsanshahbazii/pen/PoexeQb) :white_check_mark:
+- #### :fire:Custom Context Menu [See in Codepen](https://codepen.io/ehsanshahbazii/pen/PoexeQb) :white_check_mark:
   - context menu
   - pageX, pageY
   - events
 - #### Max Length input [See in Codepen](https://codepen.io/ehsanshahbazii/pen/ExLOLRM) :white_check_mark:
   - input
   - key events
-- #### Todo List Local Storage [See in Codepen](https://codepen.io/ehsanshahbazii/pen/oNdQdVX) :white_check_mark:
+- #### :fire:Todo List Local Storage [See in Codepen](https://codepen.io/ehsanshahbazii/pen/oNdQdVX) :white_check_mark:
   - local storage
   - key events
   - arrays
@@ -151,13 +151,13 @@
   - class list
   - events
   - addEventListener()
-- #### BMI Calculator [See in Codepen](https://codepen.io/ehsanshahbazii/pen/xxjQzRw) :white_check_mark:
+- #### :fire:BMI Calculator [See in Codepen](https://codepen.io/ehsanshahbazii/pen/xxjQzRw) :white_check_mark:
   - events
   - addEventListener()
 - #### Animated Keyboard [See in Codepen](https://codepen.io/ehsanshahbazii/pen/rNvQKzB) :white_check_mark:
   - events
   - addEventListener()
-- #### Pagination [See in Codepen](https://codepen.io/ehsanshahbazii/pen/PoexaJR) :white_check_mark:
+- #### :fire:Pagination [See in Codepen](https://codepen.io/ehsanshahbazii/pen/PoexaJR) :white_check_mark:
   - Math.ceil
   - class list
   - array
