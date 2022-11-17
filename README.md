@@ -1,5 +1,5 @@
 # Projects-MadeBy-JavaScript
-### JavaScript Projects for Practice – Easy Ideas to Coding JS. 31 Mini Project.
+### JavaScript Projects for Practice – Easy Ideas to Coding JS. 31 Mini Project.:fire:
 
 ## List of Projects
 
