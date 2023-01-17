@@ -2,7 +2,7 @@
 ### JavaScript Projects for Practice – Easy Ideas to Coding JS. 
 
 31 Mini Project.:fire:
-
+ 
 ## List of Projects
 
 - #### Color Flipper [See in Codepen](https://codepen.io/ehsanshahbazii/pen/wvjmLoy) :white_check_mark:
